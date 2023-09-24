@@ -45,7 +45,7 @@ const cards = [
     alt: "sushi-11",
     title: "Originale Sushi",
     rating: "4.8",
-    price: "$21.00",
+    price: "$20.00",
     active: true,
   },
   {
